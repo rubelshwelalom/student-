@@ -1,4 +1,5 @@
 Here’s a README file tailored for the `StudentPortfolio` Solidity contract project. This README provides a clear overview, including the vision, flowchart, contract address, future scope, and contact details.
+![image](https://github.com/user-attachments/assets/62fde93f-5a26-4056-9ea2-55f991f4625c)
 
 ```markdown
 # StudentPortfolio DApp
@@ -55,6 +56,7 @@ For any questions or suggestions regarding the **StudentPortfolio** DApp, please
 - **GitHub**: [https://github.com/rubelshwelalom}
 - **Contract Adress**: 0xf4a608bf00621c1f2b8b9ac5fddda937addc20e3
 - **Linkdin :www.linkedin.com/in/shwēl-ahmed-70492224a
+-**Network:Educhain
 Thank you for exploring the **StudentPortfolio** project. We welcome feedback and contributions to improve this DApp further!
 ```
 
